@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Angel
 
-<!--
-**MrAngelAcosta/MrAngelAcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **IT Systems & Network Specialist** with 17+ years of experience in help desk, network administration, field engineering, and infrastructure support.  
 
-Here are some ideas to get you started:
+Over the past year, I’ve been diving deep into **Unreal Engine 5 development** — exploring **C++ gameplay programming, multiplayer networking, and DevOps for game pipelines**. My goal is to bridge my IT background with real-time 3D development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- **Unreal Engine 5, C++**, Blueprints  
+- **Perforce, Git, Jenkins, GitHub Actions**  
+- **AWS, Azure, Cloud Hosting & Virtualization**  
+- **Networking (TCP/IP, DNS, Firewalls, VPNs)**  
+- **Python, PowerShell, Bash scripting**  
+
+### 🎮 Current Projects
+- Multiplayer chatroom & lobby system in UE5  
+- Automated build pipeline for Unreal projects (CI/CD)  
+- Cloud-hosted Unreal dedicated server on AWS  
+- C++ gameplay mechanics prototypes  
+
+### 📈 Roadmap
+- Expand C++ gameplay projects  
+- Develop custom Unreal Editor plugins  
+- Explore simulation/visualization applications of Unreal (VR/AR, architecture, training)  
+
+---
+
+💡 Always open to collaborating, learning, and connecting with devs, studios, and simulation labs working with Unreal Engine.  
