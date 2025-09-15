@@ -2,7 +2,7 @@
 
 I’m an **IT Systems & Network Specialist** with 17+ years of experience in help desk, network administration, field engineering, and infrastructure support.  
 
-Over the past year, I’ve been diving deep into **Unreal Engine 5 development** — exploring **C++ gameplay programming, multiplayer networking, and DevOps for game pipelines**. My goal is to bridge my IT background with real-time 3D development.
+Over the past year, I’ve been diving deep into **Unreal Engine 5 development**, exploring **C++ gameplay programming, multiplayer networking, and DevOps for game pipelines**. My goal is to bridge my IT background with real-time 3D development.
 
 ### 🔧 Skills & Tools
 - **Unreal Engine 5, C++**, Blueprints  
