@@ -1,27 +1,98 @@
 # 👋 Hi, I'm Angel
 
-I’m an **IT Systems & Network Specialist** with 17+ years of experience in help desk, network administration, field engineering, and infrastructure support.  
+I'm an **Infrastructure Reliability Engineer** with 17+ years of experience in enterprise IT operations, currently transitioning to **Cloud Operations and Site Reliability Engineering (SRE)** roles.
 
-Over the past year, I’ve been diving deep into **Unreal Engine 5 development**, exploring **C++ gameplay programming, multiplayer networking, and DevOps for game pipelines**. My goal is to bridge my IT background with real-time 3D development.
+I specialize in **backup/disaster recovery, infrastructure automation, and ensuring 99.9%+ uptime** for mission-critical systems across oil & gas, healthcare, and telecom industries.
 
-### 🔧 Skills & Tools
-- **Unreal Engine 5, C++**, Blueprints  
-- **Perforce, Git, Jenkins, GitHub Actions**  
-- **AWS, Azure, Cloud Hosting & Virtualization**  
-- **Networking (TCP/IP, DNS, Firewalls, VPNs)**  
-- **Python, PowerShell, Bash scripting**  
-
-### 🎮 Current Projects
-- Multiplayer chatroom & lobby system in UE5  
-- Automated build pipeline for Unreal projects (CI/CD)  
-- Cloud-hosted Unreal dedicated server on AWS  
-- C++ gameplay mechanics prototypes  
-
-### 📈 Roadmap
-- Expand C++ gameplay projects  
-- Develop custom Unreal Editor plugins  
-- Explore simulation/visualization applications of Unreal (VR/AR, architecture, training)  
+Currently managing **200TB+ of enterprise data protection** across hybrid Windows/Linux/VMware environments while building expertise in **AWS, DevOps practices, and cloud-native infrastructure**.
 
 ---
 
-💡 Always open to collaborating, learning, and connecting with devs, studios, and simulation labs working with Unreal Engine.  
+## 🔧 Core Skills & Technologies
+
+**Infrastructure & Operations:**
+- Enterprise Backup/DR (NetVault, disaster recovery planning)
+- VMware vSphere virtualization (150+ VMs)
+- Windows & Linux server administration
+- Network administration (Cisco, firewalls, VPNs)
+
+**Automation & Scripting:**
+- PowerShell (infrastructure automation, monitoring)
+- Bash scripting (Linux automation, backup verification)
+- Python (learning - automation & cloud tooling)
+
+**Cloud & DevOps (Building Expertise):**
+- AWS (studying for Solutions Architect Associate)
+- Infrastructure as Code (Terraform - in progress)
+- CI/CD concepts (Git, GitHub Actions)
+- Monitoring & alerting systems
+
+**Industries:**
+- Oil & Gas (9+ years at True Oil LLC)
+- Healthcare (HIPAA compliance)
+- Law Enforcement (high-security environments)
+- Telecom/ISP (large-scale infrastructure)
+
+---
+
+## 🎯 Current Focus
+
+**Certifications in Progress:**
+- 📚 AWS Solutions Architect Associate (Target: Q1 2025)
+- 🔒 CompTIA Security+ (Target: Q2 2025)
+
+**Building:**
+- 🤖 AI-powered chatbot using AWS Bedrock & RAG architecture
+- ☁️ Cloud infrastructure projects (Terraform, serverless)
+- 📊 Automation scripts for infrastructure reliability
+
+---
+
+## 🚀 Featured Projects
+
+### Coming Soon:
+- **Oil & Gas Operations Assistant** - AI chatbot using AWS Bedrock, Lambda, and RAG
+- **Infrastructure Automation Portfolio** - PowerShell/Bash scripts from enterprise work
+- **Cloud Infrastructure Demos** - Terraform deployments, monitoring setups
+
+*Currently sanitizing and documenting enterprise projects for public portfolio*
+
+---
+
+## 📈 Career Roadmap
+
+**2024-2025:** Transition to remote Cloud Operations/SRE role
+- ✅ 17+ years infrastructure experience
+- 🔄 Building cloud-native skills (AWS, IaC, DevOps)
+- 🎯 Target: Remote Cloud Ops, SRE, or DevOps Engineer roles
+
+**What I Bring:**
+- Deep enterprise infrastructure reliability experience
+- Proven automation and scripting skills
+- Multi-industry background (regulated environments)
+- Strong troubleshooting and problem-solving abilities
+
+---
+
+## 💼 Open To
+
+Remote opportunities in:
+- ☁️ Cloud Operations Engineering
+- 🔧 Site Reliability Engineering (SRE)
+- 🚀 DevOps Engineering
+- 🏗️ Infrastructure Engineering
+
+Particularly interested in companies in **energy, healthcare, FinTech, or SaaS**.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Website: [mrangelacosta.com](https://mrangelacosta.com)
+- 💼 LinkedIn: [linkedin.com/in/angelacosta](https://www.linkedin.com/in/angelacosta/)
+- 📧 Email: angel@mrangelacosta.com
+- 📍 Location: Casper, Wyoming (Open to fully remote)
+
+---
+
+💡 *Bridging enterprise infrastructure reliability with cloud-native operations*
