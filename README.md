@@ -1,98 +1,43 @@
 # 👋 Hi, I'm Angel
+**Cloud Infrastructure & Reliability Engineer** with 18+ years of experience protecting and scaling enterprise IT operations. I specialize in **Infrastructure Automation**, **Data Resilience (BCDR)**, and **High-Availability Systems**.
 
-I'm an **Infrastructure Reliability Engineer** with 18+ years of experience in enterprise IT operations, currently transitioning to **Cloud Operations and Site Reliability Engineering (SRE)** roles.
-
-I specialize in **backup/disaster recovery, infrastructure automation, and ensuring 99.9%+ uptime** for mission-critical systems across oil & gas, healthcare, and telecom industries.
-
-Currently managing **200TB+ of enterprise data protection** across hybrid Windows/Linux/VMware environments while building expertise in **AWS, DevOps practices, and cloud-native infrastructure**.
+Currently managing **200TB+ of enterprise data** across global hybrid environments, while migrating mission-critical workloads to **AWS** using **Terraform** and **DevOps** best practices.
 
 ---
 
-## 🔧 Core Skills & Technologies
-
-**Infrastructure & Operations:**
-- Enterprise Backup/DR (NetVault, disaster recovery planning)
-- VMware vSphere virtualization (150+ VMs)
-- Windows & Linux server administration
-- Network administration (Cisco, firewalls, VPNs)
-
-**Automation & Scripting:**
-- PowerShell (infrastructure automation, monitoring)
-- Bash scripting (Linux automation, backup verification)
-- Python (learning - automation & cloud tooling)
-
-**Cloud & DevOps (Building Expertise):**
-- AWS (studying for Solutions Architect Associate)
-- Infrastructure as Code (Terraform - in progress)
-- CI/CD concepts (Git, GitHub Actions)
-- Monitoring & alerting systems
-
-**Industries:**
-- Oil & Gas (9+ years at True Oil LLC)
-- Healthcare (HIPAA compliance)
-- Law Enforcement (high-security environments)
-- Telecom/ISP (large-scale infrastructure)
+### 🚀 Featured Projects (2025/2026 Roadmap)
+*   🏗️ **[In Progress] Enterprise Cloud Landing Zone:** Automating a multi-account AWS environment using **Terraform** and **GitHub Actions** with a focus on "Security-by-Design."
+*   🤖 **[In Progress] AI-Driven Ops Assistant:** Leveraging **AWS Bedrock** and **RAG architecture** to automate technical documentation retrieval for field operations.
+*   🎮 **[Hobby] Real-Time Cloud Viz:** Integrating **Unreal Engine 5** with cloud telemetry to visualize infrastructure health in 3D.
 
 ---
 
-## 🎯 Current Focus
-
-**Certifications in Progress:**
-- 📚 AWS Solutions Architect Associate (Target: Q1 2025)
-- 🔒 CompTIA Security+ (Target: Q2 2025)
-
-**Building:**
-- 🤖 AI-powered chatbot using AWS Bedrock & RAG architecture
-- ☁️ Cloud infrastructure projects (Terraform, serverless)
-- 📊 Automation scripts for infrastructure reliability
+### 🔧 Core Stack & Expertise
+*   **Cloud & DevOps:** AWS (Solutions Architect Track), Terraform (IaC), Git, GitHub Actions, CI/CD.
+*   **Reliability & Resilience:** Enterprise Backup/DR (NetVault), Disaster Recovery Orchestration, 99.9%+ Uptime Management.
+*   **Virtualization & OS:** VMware vSphere (150+ VMs), Windows/Linux (RHEL/Ubuntu) Server Admin.
+*   **Automation:** PowerShell (Advanced Infrastructure Scripting), Python (Cloud Tooling), Bash.
+*   **Networking:** Cisco Systems, Site-to-Site VPNs, Firewall Management, HIPAA/High-Security environments.
 
 ---
 
-## 🚀 Featured Projects
-
-### Coming Soon:
-- **Oil & Gas Operations Assistant** - AI chatbot using AWS Bedrock, Lambda, and RAG
-- **Infrastructure Automation Portfolio** - PowerShell/Bash scripts from enterprise work
-- **Cloud Infrastructure Demos** - Terraform deployments, monitoring setups
-
-*Currently sanitizing and documenting enterprise projects for public portfolio*
+### 🎓 Current Focus & Certifications
+*   📚 **AWS Certified Solutions Architect – Associate** (Target: Q1 2025)
+*   🔒 **CompTIA Security+ CF** (Target: Q2 2025)
+*   🛠️ Mastering **Terraform** and **Kubernetes (EKS)** for enterprise-scale orchestration.
 
 ---
 
-## 📈 Career Roadmap
+### 💼 Career Goal: Remote Senior Cloud/SRE Role
+I am uniquely positioned as a **"Bridge Engineer"**—someone who understands the deep "bare metal" and networking roots of the past 20 years, but speaks the language of Cloud-Scale and Automation for the next 20. 
 
-**2024-2025:** Transition to remote Cloud Operations/SRE role
-- ✅ 17+ years infrastructure experience
-- 🔄 Building cloud-native skills (AWS, IaC, DevOps)
-- 🎯 Target: Remote Cloud Ops, SRE, or DevOps Engineer roles
-
-**What I Bring:**
-- Deep enterprise infrastructure reliability experience
-- Proven automation and scripting skills
-- Multi-industry background (regulated environments)
-- Strong troubleshooting and problem-solving abilities
+**Targeting Remote opportunities in Minnesota/Nationwide:**
+☁️ Senior Cloud Infrastructure Engineer | 🔧 Site Reliability Engineering (SRE) | 🏗️ DevOps Architect
 
 ---
 
-## 💼 Open To
-
-Remote opportunities in:
-- ☁️ Cloud Operations Engineering
-- 🔧 Site Reliability Engineering (SRE)
-- 🚀 DevOps Engineering
-- 🏗️ Infrastructure Engineering
-
-Particularly interested in companies in **energy, healthcare, FinTech, or SaaS**.
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Website: [mrangelacosta.com](https://mrangelacosta.com)
-- 💼 LinkedIn: [linkedin.com/in/angelacosta](https://www.linkedin.com/in/angelacosta/)
-- 📧 Email: angel@mrangelacosta.com
-- 📍 Location: Casper, Wyoming (Open to fully remote)
-
----
-
-💡 *Bridging enterprise infrastructure reliability with cloud-native operations*
+### 📫 Connect With Me
+*   💼 **LinkedIn:** [linkedin.com/in/angelacosta](https://linkedin.com/in/angelacosta)
+*   🌐 **Website:** [mrangelacosta.com](http://mrangelacosta.com)
+*   📧 **Email:** [angel@mrangelacosta.com](mailto:angel@mrangelacosta.com)
+*   📍 **Location:** Casper, Wyoming (Targeting Remote)
