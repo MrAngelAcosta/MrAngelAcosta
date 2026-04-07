@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Angel
 
-**Cloud Infrastructure & Reliability Engineer | DCIE Certified** with 18+ years protecting and scaling enterprise IT operations. I specialize in **Infrastructure Automation**, **Data Resilience (BCDR)**, and **High-Availability Systems** — currently focused on migrating mission-critical workloads to the cloud using Terraform and DevOps best practices.
+**Cloud Infrastructure & Reliability Engineer | DCIE Certified** with 18+ years protecting and scaling enterprise IT operations. I specialize in **Infrastructure Automation**, **Data Resilience (BCDR)**, and **High-Availability Systems**, currently focused on migrating mission-critical workloads to the cloud using Terraform and DevOps best practices.
 
 Currently managing **200TB+ of enterprise data** across global hybrid environments and automating infrastructure with `Terraform`, `GitHub Actions`, and cloud-native services.
 
