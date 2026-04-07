@@ -1,43 +1,65 @@
-# 👋 Hi, I'm Angel
-**Cloud Infrastructure & Reliability Engineer** with 18+ years of experience protecting and scaling enterprise IT operations. I specialize in **Infrastructure Automation**, **Data Resilience (BCDR)**, and **High-Availability Systems**.
+### 👋 Hi, I'm Angel
 
-Currently managing **200TB+ of enterprise data** across global hybrid environments, while migrating mission-critical workloads to **AWS** using **Terraform** and **DevOps** best practices.
+**Cloud Infrastructure & Reliability Engineer | DCIE Certified** with 18+ years protecting and scaling enterprise IT operations. I specialize in **Infrastructure Automation**, **Data Resilience (BCDR)**, and **High-Availability Systems** — currently focused on migrating mission-critical workloads to the cloud using Terraform and DevOps best practices.
+
+Currently managing **200TB+ of enterprise data** across global hybrid environments and automating infrastructure with `Terraform`, `GitHub Actions`, and cloud-native services.
 
 ---
 
-### 🚀 Featured Projects (2025/2026 Roadmap)
-*   🏗️ **[In Progress] Enterprise Cloud Landing Zone:** Automating a multi-account AWS environment using **Terraform** and **GitHub Actions** with a focus on "Security-by-Design."
-*   🤖 **[In Progress] AI-Driven Ops Assistant:** Leveraging **AWS Bedrock** and **RAG architecture** to automate technical documentation retrieval for field operations.
-*   🎮 **[Hobby] Real-Time Cloud Viz:** Integrating **Unreal Engine 5** with cloud telemetry to visualize infrastructure health in 3D.
+### 🚀 Featured Projects (2025 → 2026 Roadmap)
+- 🏗️ **Enterprise Cloud Landing Zone (In Progress)** — Automating a multi-account AWS environment using `Terraform` + `GitHub Actions` with a "security-by-design" approach.  
+  Repo: [replace-with-repo-link](https://github.com/your-repo)
+- 🤖 **AI-Driven Ops Assistant (In Progress)** — RAG architecture + AWS Bedrock to automate retrieval of technical runbooks and accelerate incident response.  
+  Repo: [replace-with-repo-link](https://github.com/your-repo)
+- 🎮 **Real-Time Cloud Viz (Hobby)** — Integrating Unreal Engine 5 with cloud telemetry to visualize infrastructure health in 3D.  
+  Demo / Repo: [replace-with-repo-link](https://github.com/your-repo)
+
+(If a project repo is private, consider adding a short README / architecture diagram in the public repo to showcase the design and your contribution.)
 
 ---
 
 ### 🔧 Core Stack & Expertise
-*   **Cloud & DevOps:** AWS (Solutions Architect Track), Terraform (IaC), Git, GitHub Actions, CI/CD.
-*   **Reliability & Resilience:** Enterprise Backup/DR (NetVault), Disaster Recovery Orchestration, 99.9%+ Uptime Management.
-*   **Virtualization & OS:** VMware vSphere (150+ VMs), Windows/Linux (RHEL/Ubuntu) Server Admin.
-*   **Automation:** PowerShell (Advanced Infrastructure Scripting), Python (Cloud Tooling), Bash.
-*   **Networking:** Cisco Systems, Site-to-Site VPNs, Firewall Management, HIPAA/High-Security environments.
+- Cloud & DevOps: AWS (Solutions Architect track), Terraform (IaC), Git, `GitHub Actions`, CI/CD pipelines  
+- Reliability & Resilience: Enterprise Backup/DR (NetVault), Disaster Recovery Orchestration, SLA management (99.9%+ uptime)  
+- Virtualization & OS: VMware vSphere (150+ VMs), Windows Server, RHEL/Ubuntu Linux administration  
+- Automation & Scripting: PowerShell (advanced infra scripting), Python (cloud tooling & automation), Bash  
+- Networking & Security: Cisco, VPNs, VPC design, IAM, HIPAA & high-security operational experience
 
 ---
 
 ### 🎓 Current Focus & Certifications
-*   📚 **AWS Certified Solutions Architect – Associate** (Target: Q1 2026)
-*   🔒 **CompTIA Security+ CF** (Target: Q2 2026)
-*   🛠️ Mastering **Terraform** and **Kubernetes (EKS)** for enterprise-scale orchestration.
+- 📚 `AWS Certified Solutions Architect – Associate` (Planned Q1 2026)  
+- 🔒 `CompTIA Security+ CF` (Planned Q2 2026)  
+- 🛠️ Deepening IaC (Terraform) and container orchestration (Kubernetes / EKS) for enterprise-scale deployments
 
 ---
 
-### 💼 Career Goal: Remote Senior Cloud/SRE Role
-I am uniquely positioned as a **"Bridge Engineer"**—someone who understands the deep "bare metal" and networking roots of the past 20 years, but speaks the language of Cloud-Scale and Automation for the next 20. 
+### 💼 Career Goal
+I am a Bridge Engineer: someone who understands the deep "bare metal" and networking roots of enterprise IT and who builds cloud-scale, automated, and resilient systems for the future.
 
-**Targeting Remote opportunities in Minnesota/Nationwide:**
-☁️ Senior Cloud Infrastructure Engineer | 🔧 Site Reliability Engineering (SRE) | 🏗️ DevOps Architect
+Target Roles (Remote / Minnesota-friendly):
+- Senior Cloud Infrastructure Engineer
+- Site Reliability Engineer (SRE)
+- DevOps / Cloud Architect
+
+---
+
+### 📌 How I Work / What I Share
+- I build reproducible infrastructure using `Terraform` and GitOps workflows.  
+- I document architecture decisions, runbooks, and deployment playbooks — projects include diagrams, Terraform modules, and CI pipeline examples.  
+- I regularly post project walkthroughs and architectural notes on LinkedIn to demonstrate design reasoning and trade-offs.
 
 ---
 
 ### 📫 Connect With Me
-*   💼 **LinkedIn:** [linkedin.com/in/angelacosta](https://linkedin.com/in/angelacosta)
-*   🌐 **Website:** [mrangelacosta.com](http://mrangelacosta.com)
-*   📧 **Email:** [angel@mrangelacosta.com](mailto:angel@mrangelacosta.com)
-*   📍 **Location:** Casper, Wyoming (Targeting Remote)
+- LinkedIn: [linkedin.com/in/angelacosta](https://linkedin.com/in/angelacosta)  
+- Website / Portfolio: [mrangelacosta.com](http://mrangelacosta.com)  
+- Email: [angel@mrangelacosta.com](mailto:angel@mrangelacosta.com)  
+- Location: Casper, Wyoming (Targeting remote roles nationwide, with interest in Minnesota-based opportunities)
+
+---
+
+If you want, I can:
+- generate polished README sections for each featured repo (with sample Terraform module README templates),
+- create an "architecture snapshot" PNG/SVG you can include in each project, or
+- produce a short LinkedIn post + image to announce your public portfolio and projects.
