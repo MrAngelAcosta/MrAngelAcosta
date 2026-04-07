@@ -8,11 +8,11 @@ Currently managing **200TB+ of enterprise data** across global hybrid environmen
 
 ### 🚀 Featured Projects (2025 → 2026 Roadmap)
 - 🏗️ **Enterprise Cloud Landing Zone (In Progress)** — Automating a multi-account AWS environment using `Terraform` + `GitHub Actions` with a "security-by-design" approach.  
-  Repo: [replace-with-repo-link](https://github.com/your-repo)
+  Repo: 
 - 🤖 **AI-Driven Ops Assistant (In Progress)** — RAG architecture + AWS Bedrock to automate retrieval of technical runbooks and accelerate incident response.  
-  Repo: [replace-with-repo-link](https://github.com/your-repo)
+  Repo: 
 - 🎮 **Real-Time Cloud Viz (Hobby)** — Integrating Unreal Engine 5 with cloud telemetry to visualize infrastructure health in 3D.  
-  Demo / Repo: [replace-with-repo-link](https://github.com/your-repo)
+  Demo / Repo: 
 
 (If a project repo is private, consider adding a short README / architecture diagram in the public repo to showcase the design and your contribution.)
 
