@@ -22,8 +22,8 @@ Currently managing **200TB+ of enterprise data** across global hybrid environmen
 ---
 
 ### 🎓 Current Focus & Certifications
-*   📚 **AWS Certified Solutions Architect – Associate** (Target: Q1 2025)
-*   🔒 **CompTIA Security+ CF** (Target: Q2 2025)
+*   📚 **AWS Certified Solutions Architect – Associate** (Target: Q1 2026)
+*   🔒 **CompTIA Security+ CF** (Target: Q2 2026)
 *   🛠️ Mastering **Terraform** and **Kubernetes (EKS)** for enterprise-scale orchestration.
 
 ---
