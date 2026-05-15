@@ -54,5 +54,4 @@ Target Roles (Remote / Minnesota-friendly):
 ### 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/angelacosta](https://linkedin.com/in/angelacosta)  
 - Website / Portfolio: [mrangelacosta.com](http://mrangelacosta.com)  
-- Email: [angel@mrangelacosta.com](mailto:angel@mrangelacosta.com)  
-- Location: Casper, Wyoming (Targeting remote roles nationwide, with interest in Minnesota-based opportunities)
+- Email: [angel@mrangelacosta.com](mailto:angel@mrangelacosta.com)
