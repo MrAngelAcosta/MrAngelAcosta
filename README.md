@@ -67,4 +67,4 @@ Say the use case and I’ll prepare a short demo branch and a 3‑minute walkthr
 
 ---
 
-Based in Wyoming. Building for the
+*Based in Wyoming. Building for the world.*
