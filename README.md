@@ -1,92 +1,53 @@
 # 👋 Hi, I'm Angel Acosta
 
-**Cloud Infrastructure & Reliability Engineer** (DCIE Certified) · 18+ years in enterprise IT operations · Founder of **Lumos Interactive**
+**Senior Infrastructure & Reliability Engineer** · DCIE Certified · 18+ years in enterprise IT · Founder, Lumos Interactive  
+I build and operate high‑availability systems, automate infrastructure with IaC + CI/CD, and productionize AI‑assisted tooling (RAG, prompt engineering) for faster, safer ops.
 
-I build and operate **high-availability systems**, improve **data resilience (BCDR)**, and automate infrastructure using **IaC + CI/CD**. On the side, I run an indie game studio where I apply that same infrastructure-first mindset to Unreal Engine development.
-
-- 🔗 LinkedIn: [linkedin.com/in/angelacosta](https://www.linkedin.com/in/angelacosta/)
-- 💻 GitHub: [github.com/MrAngelAcosta](https://github.com/MrAngelAcosta)
-- 🎮 Studio: [lumosinteractive.com](https://lumosinteractive.com)
-- 🌐 Personal Site: [mrangelacosta.com](http://mrangelacosta.com)
-- 📧 Contact: angel@mrangelacosta.com
-
----
-
-## 🧭 What I'm Focused On (2025 → 2026)
-
-### ☁️ Cloud / Platform Engineering
-- Terraform-first infrastructure, modules, environments, repeatable patterns
-- CI/CD with GitHub Actions, automated plan/apply workflows
-- Reliability patterns: backups, DR testing, monitoring/alerting, incident response
-
-### 🎮 Game Tech (Lumos Interactive)
-- Unreal Engine 5, C++ foundations, multiplayer architecture
-- Dedicated server readiness + real-time telemetry concepts
-- Studio infrastructure: static site + API + game server pipeline
+- 🔗 [LinkedIn](https://www.linkedin.com/in/angelacosta)  
+- 💻 [GitHub](https://github.com/MrAngelAcosta)  
+- 🎮 [Lumos Interactive](https://lumosinteractive.com)  
+- 🌐 [mrangelacosta.com](http://mrangelacosta.com)  
+- ✉️ angel@mrangelacosta.com
 
 ---
 
-## 🚀 Featured Projects
-
-> Repos are intentionally small, well-documented, and reproducible.
-
-### 🏗️ Cloud Landing Zone *(Terraform + GitHub Actions)* — In Progress
-- **What it shows:** Environment structure, least-privilege IAM, CI plan/apply workflow
-- **Repo:** Coming Soon
-
-### 🤖 AI Ops Assistant *(RAG for Runbooks)* — In Progress
-- **What it shows:** Retrieval workflow, guardrails, runbook ingestion, incident acceleration
-- **Repo:** Coming Soon
-
-### 🎮 Unreal + Cloud Telemetry Visualization *(Lumos Interactive)*
-- **What it shows:** Connecting game telemetry signals to real cloud infrastructure monitoring
-- **Repo / Demo:** Coming Soon
+## Focus (2025 → 2026)
+**Primary:** Cloud / Platform Engineering, DevSecOps, AI‑assisted automation (RAG & runbooks)  
+**Secondary / Side Hustle:** Game DevOps & Unreal Engine infrastructure (UE5, dedicated servers, telemetry)
 
 ---
 
-## 🔧 Core Skills
-
-| Category | Tools & Technologies |
-|---|---|
-| **Cloud / IaC** | Terraform, Git, GitHub Actions, AWS (Solutions Architect track), Oracle Cloud (OCI) |
-| **Reliability** | Backup/restore, DR orchestration, uptime/SLA, Nagios XI monitoring |
-| **Virtualization** | VMware vSphere, Hyper-V, Proxmox |
-| **Systems** | Windows Server (2008–2022), Linux (Oracle Linux 9, Ubuntu, RHEL family) |
-| **Automation** | PowerShell, Python, Bash |
-| **Networking / Security** | VPNs, DMZ/segmentation, Active Directory, DNS/DHCP, IAM fundamentals |
-| **Containers** | Docker, Docker Compose *(actively learning)* |
-| **Game DevOps** | Unreal Engine 5, Jenkins, TeamCity, Perforce, Gitea, Unreal Horde |
+## Quick Highlights
+- 18+ years operating mission‑critical Windows & Linux estates, virtualization, SAN/NAS, and BCDR
+- Production OCI experience, learning AWS/Azure for cross‑cloud platform work
+- Built prompt‑driven automation (runbook generation, ticket triage) and secure LLM proxies for safe usage
+- Strong scripting & orchestration: PowerShell, Bash, Terraform, GitHub Actions, Jenkins
 
 ---
 
-## 🎓 Certifications & Learning
+## Featured Projects (pin these repos)
+- **ai-ops-runbook** — Minimal RAG runbook generator (FastAPI + OpenAI embeddings + demo) — *demo video + README*
+- **lumos-cloud-landing-zone** — Terraform modules + GitHub Actions plan/apply patterns for repeatable environments
+- **unreal-telemetry-bridge** — Prototype: UE5 telemetry → Prometheus → Grafana (demo screenshots + small sample)
 
-- 🟡 **AWS Certified Solutions Architect – Associate** *(in progress)*
-- 🟡 **CompTIA Security+** *(planned)*
-- 🟢 **DCIE Certified** *(active)*
-- 🟢 **Docker + Docker Compose** *(actively learning)*
-
----
-
-## 📌 How I Work
-
-- I publish projects with **clear READMEs**, architecture diagrams, and "how to run it" steps
-- I prefer **small, composable modules** over giant one-off scripts
-- I document tradeoffs and decisions, what I chose, why, and what I'd do differently next time
-- I bring **18+ years of production ops discipline** to every project I build
+> Repos are intentionally small, documented, and reproducible. See each project’s README for quickstarts and demo links.
 
 ---
 
-## 🎮 Lumos Interactive
-
-> *Where Infrastructure Meets Imagination*
-
-An indie game studio founded on the principle that great games need great infrastructure. Every project is engineered from the ground up, from dedicated server architecture to the last frame of gameplay.
-
-**Current Project:** `Project Codename: VOID` — a fast-paced multiplayer tactical shooter built in Unreal Engine 5, with dedicated server infrastructure and real-time telemetry from day one.
-
-🌐 [lumosinteractive.com](https://lumosinteractive.com)
+## What I publish
+- Small, focused repos with:
+  - clear README + architecture diagram
+  - Dockerfile and quickstart
+  - CI workflow demo (GitHub Actions)
+  - short demo video (2–5 min) or GIF for the UI/CLI
+  - sample prompts & evaluation tests (for AI projects)
 
 ---
 
-*Based in Wyoming. Building for the world.*
+## Skills
+Terraform • GitHub Actions • Docker • PowerShell • Python • OpenAI / embeddings • RAG • Nagios XI • Prometheus/Grafana • OCI / AWS fundamentals • VMware vSphere • Windows Server • Oracle Linux
+
+---
+
+## Want a quick demo?
+If you want a short walkthrough of the AI runbook or the cloud landing zone, say the word — I’ll push a demo branch and a 3‑minute video you can review before interviews.
