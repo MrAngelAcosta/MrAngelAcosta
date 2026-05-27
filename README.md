@@ -57,4 +57,4 @@ Every project I commit includes:
 
 ---
 
-*Based in Wyoming. 10.5 years of loyalty. Building for the future of True Companies.*
+_Based in Wyoming. Focused on Systems, Automation, and Interactive Design._
