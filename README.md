@@ -1,70 +1,60 @@
 # 👋 Hi, I'm Angel Acosta
 
-**Senior Infrastructure & Reliability Engineer** · DCIE Certified · 18+ years in enterprise IT · Founder, Lumos Interactive  
-I build and operate high‑availability systems, automate infrastructure with IaC + CI/CD, and productionize AI‑assisted tooling (RAG, prompt engineering) for faster, safer ops.
+**Senior Developer & Systems Architect** · 18+ years in Enterprise IT · Founder, Lumos Interactive  
+I bridge the gap between high-availability infrastructure and modern software solutions. I specialize in automation, AI-assisted development workflows, and building reliable, scalable internal tooling.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/angelacosta)  
-- 💻 [GitHub](https://github.com/MrAngelAcosta)  
+- 💻 [Personal Site](http://mrangelacosta.com)  
 - 🎮 [Lumos Interactive](https://lumosinteractive.com)  
-- 🌐 [mrangelacosta.com](http://mrangelacosta.com)  
 - ✉️ angel@mrangelacosta.com
 
 ---
 
-## Focus (2025 → 2026)
-**Primary:** Cloud / Platform Engineering, DevSecOps, AI‑assisted automation (RAG & runbooks)  
-**Secondary / Side Hustle:** Game DevOps & Unreal Engine infrastructure (UE5, dedicated servers, telemetry)
+## Technical Focus (2026)
+**Primary:** Application Development (C# / JS / Python), Internal Tooling, AI-Assisted Workflows (RAG/LLMs)  
+**Secondary:** DevOps / DevSecOps, Game Engineering (UE5 C++), and Infrastructure-as-Code
 
 ---
 
 ## Quick Highlights
-- 18+ years operating mission‑critical Windows & Linux estates, virtualization, SAN/NAS, and BCDR
-- Production OCI experience; actively expanding AWS/Azure knowledge
-- Built prompt‑driven automation (runbook generation, ticket triage) and secure LLM proxies for safe usage
-- Strong scripting & orchestration: PowerShell, Bash, Terraform, GitHub Actions, Jenkins
+- **10.5+ Years at True Companies:** Deep institutional knowledge of internal systems and business logic.
+- **Enterprise Automation:** Expert in PowerShell/Python orchestration for mission-critical production environments.
+- **AI Integration:** Productionizing local and enterprise LLM solutions (RAG, secure prompts) to accelerate developer velocity.
+- **Full-Stack Competency:** Experienced in modern web standards (HTML5/CSS3/JS) and legacy system migrations (SQL Server Management).
 
 ---
 
-## Featured / Upcoming Projects
-I prefer to design demos that align with the team’s actual needs. If you’re a hiring manager or internal stakeholder and would like a tailored demo, tell me which use case you prefer and I’ll prioritize it.
+## Featured Development Projects
+I focus on building solutions that solve real-world business problems. If you are an internal stakeholder or hiring manager, I am happy to prioritize a specific demo for your use case.
 
-- **ai-ops-runbook** — Minimal RAG runbook generator (FastAPI + OpenAI embeddings + demo)  
-  Status: Drafting requirements — preparing to implement after stakeholder input.
+- **🤖 Internal AI-Ops Bridge** — A RAG-based runbook generator that converts system alerts into actionable developer documentation.
+  *Status: Prototyping implementation using FastAPI & OpenAI.*
 
-- **lumos-cloud-landing-zone** — Terraform modules + GitHub Actions plan/apply patterns for repeatable environments  
-  Status: Drafting example envs — will publish a reproducible example once requirements are confirmed.
+- **⚙️ Enterprise Tooling Lab** — A collection of custom utilities for SQL data validation and system-wide automation.
+  *Status: Refactoring for standard enterprise deployment.*
 
-- **unreal-telemetry-bridge** — Prototype: UE5 telemetry → Prometheus → Grafana (demo screenshots + small sample)  
-  Status: Planning / screenshots coming soon.
+- **🎮 Unreal Engine Systems** — Architectural prototypes for real-time telemetry and backend system logic for Lumos Interactive projects.
+  *Status: Active research in C++ and Visual Scripting.*
 
-> If you’d like to see a specific demo (RAG runbook vs. ticket triage vs. internal KB assistant), message me and I’ll prioritize that prototype and publish a short demo branch within 48–72 hours.
-
----
-
-## How I publish
-When I release a project I include:
-- Clear README + architecture diagram
-- Dockerfile + quickstart
-- CI workflow demo (GitHub Actions)
-- Short demo video (2–5 min) or GIF
-- Example prompts & simple evaluation tests
-- SECURITY.md describing PII redaction, audit logging, and RBAC considerations
+> **Looking for a specific demo?** I can prioritize prototypes for **Ticket Triage Automation**, **Internal KB Assistants**, or **SQL Data Validation Tools**. Message me and I can have a demo branch ready in 48-72 hours.
 
 ---
 
-## Skills
-Terraform • GitHub Actions • Docker • PowerShell • Python • OpenAI / embeddings • RAG • Nagios XI • Prometheus/Grafana • OCI / AWS fundamentals • VMware vSphere • Windows Server • Oracle Linux
+## My Coding Standards
+Every project I commit includes:
+- **Clean Documentation:** Architectural diagrams and clear `README.md` files.
+- **Deployment Ready:** Dockerfiles and CI/CD workflow demos (GitHub Actions).
+- **Security First:** `SECURITY.md` covering PII protection, audit logging, and RBAC implementation.
+- **Evaluation:** Example test cases and performance metrics.
 
 ---
 
-## Want a quick demo?
-Tell me which use case you'd like:  
-- RAG runbook generator (alerts → actionable runbook)  
-- Ticket triage & summary (incoming tickets → category/priority/suggested owner)  
-- Internal KB assistant (search internal docs + cite sources)
-
-Say the use case and I’ll prepare a short demo branch and a 3‑minute walkthrough video.
+## Tech Stack
+**Languages:** PowerShell • JavaScript • Python • SQL • C# (Active Learning) • C++ (UE5)  
+**Tools:** Git • Docker • Terraform • GitHub Actions • Jenkins • SSMS  
+**Platforms:** Azure • AWS • VMware • Oracle Linux • Windows Server  
+**AI:** Ollama • LM Studio • OpenAI API • RAG Architecture
 
 ---
 
-*Based in Wyoming. Building for the world.*
+*Based in Wyoming. 10.5 years of loyalty. Building for the future of True Companies.*
