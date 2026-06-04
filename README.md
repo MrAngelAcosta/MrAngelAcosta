@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Angel Acosta
 
-**Senior Developer & Systems Professional** · 18+ years in Enterprise IT · Founder, Lumos Interactive  
-I bridge the gap between high-availability infrastructure and modern software solutions. I specialize in automation, AI-assisted development workflows, and building reliable internal tooling.
+**Game Systems Developer & Systems Professional** · 18+ years in Enterprise IT · Founder, Lumos Interactive  
+I bridge the gap between high-availability infrastructure and interactive game development. I specialize in Unreal Engine systems, AI-assisted development workflows, and building reliable internal tooling.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/angelacosta)  
 - 💻 [Personal Site](http://mrangelacosta.com)  
@@ -11,47 +11,55 @@ I bridge the gap between high-availability infrastructure and modern software so
 ---
 
 ## Technical Focus (2026)
-**Primary:** Application Development (C# / JS / Python), Internal Tooling, AI-Assisted Workflows  
-**Secondary:** DevOps / DevSecOps, Game Engineering (UE5 C++), and Infrastructure-as-Code
+**Primary:** Game Development (Unreal Engine Blueprints + C++, Unity C#), SQL & Data Systems (Active Learning), AI-Assisted Workflows  
+**Secondary:** Web Development (HTML · CSS · JavaScript), Python Scripting, Firebase & Backend Integration
 
 ---
 
 ## Quick Highlights
-- **10.5+ Years at True Companies:** Deep institutional knowledge of internal systems and business logic.
-- **Enterprise Automation:** Proficient in PowerShell and Python orchestration for stable production environments.
-- **AI-Assisted Workflow:** Optimizing development velocity through local and enterprise LLM implementation (RAG, secure prompting).
-- **Full-Stack Competency:** Experienced in modern web standards (HTML5/CSS3/JS) and SQL Server Management (SSMS).
+- **Unreal Engine Development:** Building gameplay systems and real-time logic using Blueprints and C++.
+- **Unity & C#:** Cross-engine prototyping and systems programming for interactive experiences.
+- **AI-Native Workflow:** Running a local-first LLM pipeline (LM Studio, Ollama, ComfyUI) to accelerate development and prototyping.
+- **SQL in Progress:** Actively developing data fluency for game state management, automation, and backend systems.
+- **Enterprise Foundation:** 18+ years of systems and infrastructure experience applied to scalable, stable game architecture.
 
 ---
 
 ## Featured Development Projects (Personal Lab)
-I focus on building prototypes that solve real-world operational challenges.
+I focus on building systems that connect infrastructure, data, and interactive applications.
 
-- **🤖 AI-Ops Research Bridge** — A RAG prototype exploring how to transform system alerts into actionable technical documentation.
-  *Status: Active research using FastAPI & OpenAI APIs.*
+- **🎮 UE5 Systems Lab** — Architectural prototypes for telemetry and real-time gameplay logic using Blueprints and C++.  
+  *Status: Active development for Lumos Interactive projects.*
 
-- **⚙️ SQL Automation Lab** — A collection of custom utilities for data validation and system-wide diagnostic reporting.
-  *Status: Refactoring for modular infrastructure deployment.*
+- **🕹️ Unity Prototypes** — Rapid mechanic and systems prototyping in C# for cross-platform experimentation.  
+  *Status: Active iteration.*
 
-- **🎮 Unreal Engine Systems** — Architectural prototypes for telemetry and real-time logic for Lumos Interactive projects.
-  *Status: Active research in C++ and Visual Scripting.*
+- **⚙️ SQL & Data Lab** — Building queries, automation scripts, and diagnostic tooling to develop deeper data system fluency.  
+  *Status: Active learning and iteration.*
+
+- **🤖 AI Dev Pipeline** — Local LLM workflow research using LM Studio, Ollama, and ComfyUI for asset generation and code assistance.  
+  *Status: Active experimentation.*
 
 ---
 
 ## My Coding Standards
-Every project I commit focuses on:
+Every project I commit to focuses on:
 - **Professional Documentation:** Detailed READMEs and architectural diagrams.
-- **Deployment & Scalability:** Dockerized environments and CI/CD workflow demos.
+- **Practical Design:** Systems that solve real operational or gameplay problems.
 - **System Stability:** Focus on audit logging, security best practices, and performance metrics.
+- **Continuous Learning:** Iterating with new tools, especially in AI, data, and engine-level programming.
 
 ---
 
 ## Tech Stack
-**Languages:** PowerShell • JavaScript (ES6+) • Python • SQL • C# (Active Learning) • C++ (UE5)  
-**Tools:** Git • Docker • GitHub Actions • SSMS • Netvault • DataCore (DCIE)  
-**Platforms:** VMware • Windows Server • Oracle Linux • Azure/AWS Fundamentals  
-**AI:** Ollama • LM Studio • OpenAI API • RAG Architecture
+**Game Engines:** Unreal Engine 5 (Blueprints + C++) • Unity (C#)  
+**Languages:** C# • C++ • JavaScript (ES6+) • SQL (Learning) • PowerShell • Python (Foundational)  
+**Web:** HTML5 • CSS3 • JavaScript  
+**IDEs & Tools:** Visual Studio Community • Visual Studio Code • Cursor • AI OpenCode  
+**AI / LLM:** LM Studio • Ollama • ComfyUI • Amuse • Google AI Studio • ChatLLM • Antigravity  
+**Backend & Data:** Firebase • SSMS • SQL Server  
+**Infrastructure:** VMware • Windows Server • Oracle Linux • Azure/AWS Fundamentals
 
 ---
 
-Based in Wyoming. Focused on Systems, Automation, and Reliability.
+Based in Wyoming. Building at the intersection of systems, data, AI, and interactive development.
